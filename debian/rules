@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+%:
+
+	dh $@
+
+override_dh_auto_build:
+	sh generate_mo.sh
+
+override_dh_auto_install:
+	dh_auto_install --destdir=debian/tzdata-l10n
+	mkdir -p debian/tzdata-l10n/usr/share
+	cp -r locale debian/tzdata-l10n/usr/share/

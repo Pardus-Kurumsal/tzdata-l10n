@@ -1,0 +1,13 @@
+Source: tzdata-l10n
+Section: admin
+Priority: extra
+Build-Depends: debhelper (>= 8), 
+Maintainer: leaeasy <leaeasy@gmail.com>
+Standards-Version: 3.9.3
+
+Package: tzdata-l10n
+Architecture: all
+Depends: ${misc:Depends},
+ ${python:Depends},
+Description: Internationalized files for tzdata
+ Internationalized files for KDE

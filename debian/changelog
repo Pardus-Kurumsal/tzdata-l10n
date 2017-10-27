@@ -1,0 +1,29 @@
+tzdata-l10n (2013i-5) trusty; urgency=low
+
+  * fix wrong po file. 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Tue, 28 Oct 2014 10:02:01 +0800
+
+tzdata-l10n (2013i-4) trusty; urgency=low
+
+  * add Argentina translations. 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Mon, 27 Oct 2014 16:56:12 +0800
+
+tzdata-l10n (2013i-3) trusty; urgency=low
+
+  * fix CHARSET to UTF-8. 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Fri, 21 Mar 2014 16:05:42 +0800
+
+tzdata-l10n (2013i-2) saucy; urgency=low
+
+  * add zh_CN and zh_TW po files. 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Thu, 27 Feb 2014 17:21:28 +0800
+
+tzdata-l10n (2013i-1) saucy; urgency=low
+
+  * Init release.
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Tue, 25 Feb 2014 17:17:53 +0800
